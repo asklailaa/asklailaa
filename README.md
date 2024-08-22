@@ -1,16 +1,11 @@
-## Hi there 👋
+**oooi, bem vindos ao meu perfil!** 🎀✨
+ 
+- me chamo Laila 🩰
+- sou estudante do Alura.🎓
+- adoro comer e cozinhar. 🥡
+- quero cursar medicina. 🩺
+- tenho gatos e amo muito eles! 🐈💗
+- tenho 14 anos! ⏱
+- amo a praia, e sonho em morar no litoral. 🌊✨
+- amo livros e filmes de romance. 💗🎠
 
-<!--
-**asklailaa/asklailaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
