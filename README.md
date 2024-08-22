@@ -1,6 +1,6 @@
 **oooi, bem vindos ao meu perfil!** 🎀✨
  
-- me chamo Laila 🩰
+- me chamo Laila. 🩰
 - sou estudante do Alura.🎓
 - adoro comer e cozinhar. 🥡
 - quero cursar medicina. 🩺
